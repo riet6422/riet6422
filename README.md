@@ -8,3 +8,6 @@
 🌱 I’m currently learning Web development<br>
 ⚙️ I use daily: Javascript, Ruby<br>
 </p>
+
+About me:
+This is my [profile](https://riet6422.github.io/profile/)
