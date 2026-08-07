@@ -4,7 +4,7 @@
 <br></h2>
 <p>
   <br>
-💻 Participating Code [Le wagon](https://www.lewagon.com/) Bootcamp<br>
+💻 Participating Code Le wagon Bootcamp<br>
 🌱 I’m currently learning Web development<br>
 ⚙️ I use daily: Javascript, Ruby<br>
 </p>
