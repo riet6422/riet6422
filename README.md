@@ -11,3 +11,9 @@
 
 About me:
 This is my [profile](https://riet6422.github.io/profile/)
+
+
+Portfolio:
+https://somani-cassandrasantoso-6b0b50995336.herokuapp.com/
+https://riet6422.github.io/landing/
+https://watchlists-0ca8a1ffd721.herokuapp.com/lists
